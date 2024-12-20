@@ -3,6 +3,8 @@ using Code by Lorenzo/Dent this script will
 test PDEt for mass and redhsifts
 """
 ##################import libraries ############################
+import sys
+sys.append('../') #get access to files at ../ 
 import o123_class_found_inj_general as u_pdet
 mport numpy as np
 import matplotlib.pyplot as plt
